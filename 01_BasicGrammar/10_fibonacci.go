@@ -11,7 +11,7 @@ func fibonacci(n int, c chan int) {
 	close(c)
 }
 
-func main() {
+func demo010() {
 	c := make(chan int)
 	n := 10
 	go fibonacci(n, c)
