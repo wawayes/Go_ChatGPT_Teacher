@@ -5,7 +5,7 @@ import (
 	"os"
 )
 
-func main() {
+func demo001() {
 
 	wd, err := os.Getwd()
 	if err != nil {
