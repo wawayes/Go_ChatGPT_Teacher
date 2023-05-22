@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/first_demo.iml" filepath="$PROJECT_DIR$/.idea/first_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Go_ChatGPT_Teacher.iml" filepath="$PROJECT_DIR$/.idea/Go_ChatGPT_Teacher.iml" />
     </modules>
   </component>
 </project>

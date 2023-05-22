@@ -11,7 +11,7 @@ type Student struct {
 	Address string `json:"address"`
 }
 
-func main() {
+func demo004() {
 	jsonData := `
 		{
 			"name": "Tom",
