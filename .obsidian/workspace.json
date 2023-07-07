@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "34b10b4ae44ff637",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ff5baee8e578436",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65d420aa96e48488",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0cfe8a887e962b6e",
+    "type": "split",
+    "children": [
+      {
+        "id": "f985ad7c329f4194",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c02eb0bf1b4657d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d61fbc4a40200bc3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": " ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "91c519e4a5bd8749",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "671f27311e8b7d99",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bb46689f1b11283f",
+    "type": "split",
+    "children": [
+      {
+        "id": "b2fe31c4d8ede16d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0708ed999fb4dd3a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b8c3fe671b598b91",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "26876782807fe45b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d552c84d0144edf5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "65d420aa96e48488",
+  "lastOpenFiles": [
+    "GO/GoLang编码/QA.md",
+    "Projects-notes/go开发指南/第三方库.md",
+    "Projects-notes/go开发指南/标准库.md",
+    "Projects-notes/go开发指南/Gin.md",
+    "Projects-notes/go-gin-example/先写个小demo.md",
+    "Projects-notes/go-programming-tour-book/一、命令行应用.md",
+    "Projects-notes/GoLang编码/QA.md",
+    "Projects-notes/GoLang编码/1. 项目目录结构.md",
+    "Projects-notes/go开发指南",
+    "Projects-notes/go-programming-tour-book",
+    "Projects-notes/go-gin-example",
+    "Projects-notes/GoLang编码",
+    "Projects-notes",
+    "GO/GoLang编码/1. 项目目录结构.md",
+    "GO/go-programming-tour-book/一、命令行应用.md",
+    "bi-chatgpt-golang-python/Note.md",
+    "GO/go-programming-tour-book",
+    "GO/go-gin-example/先写个小demo.md",
+    "GO/Effective Go - Notes/Notes.md",
+    "GO/Effective Go - Notes",
+    "GO/go开发指南/标准库.md",
+    "GO/go开发指南/第三方库.md",
+    "bi-chatgpt-golang-python",
+    "GO/go开发指南/Gin.md",
+    "GO/第三方库/未命名.md",
+    "GO/第三方库/ini.md",
+    "GO/go开发指南",
+    "GO/第三方库",
+    "Untitled.canvas",
+    "2023-06-28.md"
+  ]
+}
