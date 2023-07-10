@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects-notes/bi-chatgpt-golang/QA.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects-notes/bi-chatgpt-golang/QA.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects-notes/bi-chatgpt-golang/QA.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects-notes/bi-chatgpt-golang/QA.md"
+                "file": "README.md"
               }
             }
           }
@@ -156,9 +156,9 @@
   },
   "active": "f04cb18a9948f7cb",
   "lastOpenFiles": [
-    "Projects-notes/GoLang编码/QA.md",
-    "Projects-notes/bi-chatgpt-golang/QA.md",
     "Projects-notes/bi-chatgpt-golang/Note.md",
+    "Projects-notes/bi-chatgpt-golang/QA.md",
+    "Projects-notes/GoLang编码/QA.md",
     "Projects-notes/GoLang编码/1. 项目目录结构.md",
     "README.md",
     "Projects-notes/bi-chatgpt-golang",
