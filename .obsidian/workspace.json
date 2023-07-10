@@ -157,6 +157,9 @@
   },
   "active": "f04cb18a9948f7cb",
   "lastOpenFiles": [
+    "Projects-notes/bi-chatgpt-golang/QA.md",
+    "Projects-notes/bi-chatgpt-golang/Note.md",
+    "Projects-notes/bi-chatgpt-golang",
     "标准库.md",
     "未命名.md",
     "先写个小demo.md",
@@ -168,8 +171,6 @@
     "bi-chatgpt-golang-python/Note.md",
     "bi-chatgpt-golang-python",
     "README.md",
-    "Projects-notes/bi-chatgpt-golang/Note.md",
-    "Projects-notes/bi-chatgpt-golang/QA.md",
     "Projects-notes/go-gin-example/先写个小demo.md",
     "Projects-notes/go-programming-tour-book/一、命令行应用.md",
     "Projects-notes/go开发指南/标准库.md",
@@ -186,13 +187,11 @@
     "04_Concurrency",
     "03_ConcurrentProgramming/02_demo01.go",
     "03_ConcurrentProgramming/01_task01.go",
-    "03_ConcurrentProgramming",
     "GO/GoLang编码/QA.md",
     "GO/GoLang编码/1. 项目目录结构.md",
     "GO/go-programming-tour-book/一、命令行应用.md",
     "GO/go-gin-example/先写个小demo.md",
     "GO/Effective Go - Notes/Notes.md",
-    "GO/go开发指南/标准库.md",
     "Untitled.canvas"
   ]
 }
