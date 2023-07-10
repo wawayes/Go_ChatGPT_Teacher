@@ -18,12 +18,12 @@
     "rateLimit": 4994
   },
   "upload": {
-    "behavior": "fixed",
+    "behavior": "obsidian",
     "defaultName": "",
     "rootFolder": "",
     "yamlFolderKey": "",
     "frontmatterTitle": {
-      "enable": false,
+      "enable": true,
       "key": "title"
     },
     "replaceTitle": [],
@@ -33,7 +33,7 @@
       "excluded": []
     },
     "folderNote": {
-      "enable": false,
+      "enable": true,
       "rename": "index.md"
     },
     "metadataExtractorPath": ""
