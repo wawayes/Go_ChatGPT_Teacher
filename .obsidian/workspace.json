@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "65d420aa96e48488",
+            "id": "f04cb18a9948f7cb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           }
         ],
@@ -147,37 +155,44 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "65d420aa96e48488",
+  "active": "f04cb18a9948f7cb",
   "lastOpenFiles": [
-    "GO/GoLang编码/QA.md",
-    "Projects-notes/go开发指南/第三方库.md",
-    "Projects-notes/go开发指南/标准库.md",
-    "Projects-notes/go开发指南/Gin.md",
+    "标准库.md",
+    "未命名.md",
+    "先写个小demo.md",
+    "一、命令行应用.md",
+    "QA.md",
+    "Git指令笔记.md",
+    "Gin.md",
+    "1. 项目目录结构.md",
+    "bi-chatgpt-golang-python/Note.md",
+    "bi-chatgpt-golang-python",
+    "README.md",
+    "Projects-notes/bi-chatgpt-golang/Note.md",
+    "Projects-notes/bi-chatgpt-golang/QA.md",
     "Projects-notes/go-gin-example/先写个小demo.md",
     "Projects-notes/go-programming-tour-book/一、命令行应用.md",
-    "Projects-notes/GoLang编码/QA.md",
+    "Projects-notes/go开发指南/标准库.md",
+    "Projects-notes/go开发指南/第三方库.md",
+    "Projects-notes/go开发指南/Gin.md",
     "Projects-notes/GoLang编码/1. 项目目录结构.md",
-    "Projects-notes/go开发指南",
-    "Projects-notes/go-programming-tour-book",
-    "Projects-notes/go-gin-example",
-    "Projects-notes/GoLang编码",
-    "Projects-notes",
+    "Projects-notes/GoLang编码/QA.md",
+    "Projects-notes.md",
+    "未命名",
+    "go.sum",
+    "go.mod",
+    "HelloWorld.go",
+    "04_Concurrency/01_goroutine_task01.go",
+    "04_Concurrency",
+    "03_ConcurrentProgramming/02_demo01.go",
+    "03_ConcurrentProgramming/01_task01.go",
+    "03_ConcurrentProgramming",
+    "GO/GoLang编码/QA.md",
     "GO/GoLang编码/1. 项目目录结构.md",
     "GO/go-programming-tour-book/一、命令行应用.md",
-    "bi-chatgpt-golang-python/Note.md",
-    "GO/go-programming-tour-book",
     "GO/go-gin-example/先写个小demo.md",
     "GO/Effective Go - Notes/Notes.md",
-    "GO/Effective Go - Notes",
     "GO/go开发指南/标准库.md",
-    "GO/go开发指南/第三方库.md",
-    "bi-chatgpt-golang-python",
-    "GO/go开发指南/Gin.md",
-    "GO/第三方库/未命名.md",
-    "GO/第三方库/ini.md",
-    "GO/go开发指南",
-    "GO/第三方库",
-    "Untitled.canvas",
-    "2023-06-28.md"
+    "Untitled.canvas"
   ]
 }
